@@ -1,4 +1,4 @@
-# <-- Python-Exercises --->
+# <-- Python Exercises --->
 
 ## [+] Number Based Problems and Solutions :
    1. Prime Number
