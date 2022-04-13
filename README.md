@@ -1,4 +1,4 @@
-# <-- Python Exercises --->
+# Python Exercises #
 
 ## [+] Number Based Problems and Solutions :
    1. Prime Number
@@ -11,3 +11,8 @@
    8. Nth Fibonacci Number
    9. Find LCM of Two Numbers
    10. Find HCF/GCD of Two Numbers
+
+
+## [+] Miscellaneous :
+   11. Password generator
+   12. Caesar Cipher
