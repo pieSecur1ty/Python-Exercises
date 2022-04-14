@@ -15,10 +15,11 @@
 
 ## [+] Miscellaneous :
    11. Password Generator
-   12. Caesar Cipher
+   12. Caesar Cipher Encoder
    13. Check The String is Pangram or Not
    14. Fizz-Buzz
    15. Find Lonely Integer in List
    16. Counting Sort
    17. Time Conversion from 12-Hour Format to 24-Hour Format
    18. Diagonal Difference of a Square Matrix
+   19. Caesar Cipher Decoder
